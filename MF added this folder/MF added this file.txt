@@ -1,0 +1,18 @@
+Richardo's Git cheat cheet:
+
+cd ~/alldev/
+git clone git@github.com:ZuckerburgWho/Test2.git
+**make your changes to your files
+**back to terminal
+git add .
+git commit -m "you can enter any message here in parentheses"
+git push
+
+
+now you have cloned a repository (you have a local copy of your REMOTE repository)
+The remote repository is your online copy of your code
+after cloning it and made your changes.. you save your changes and go back to terminal
+
+in terminal, you typed git add .( the dot means "all" ... this flagged all the current files/changes to be committed... you can add specific files or add all of them. Adding all is the easiest)
+you then typed git commit -m "xx" ---> this committed your local changes to your local repository (local files is a copy of your actual files, it is a summary of changes, not a full copy)
+after updating your local repo, you pushed these changes to your remote repository (online repository)
