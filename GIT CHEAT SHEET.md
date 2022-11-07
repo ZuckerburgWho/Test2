@@ -55,9 +55,6 @@ B --> D{Rhombus}
 C --> D
 B --> C
 B --> A
-B --> B
-B --> C
-B --> D
 B --> E
 B --> B
 ```
