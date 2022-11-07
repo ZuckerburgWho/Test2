@@ -3,7 +3,12 @@ Richardo's Git cheat cheet:
 
 cd ~/alldev/Test2 			 In your terminal, navigate to the project folder
 
-git branch					To check which branch you are on
+
+
+> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
+
+	git branch
+
 
 to change to another branch:
 
@@ -13,14 +18,14 @@ To create a new branch:
 
 	git checkout -b newBranchNameHere
 	
-**Now you can safely make any and all changes that you wnt to make**
+**Now you can safely make any and all changes that you want to make**
 
 To save the changes so everybody has these changes in the remote repo
 Add files to be committed:
 
 	git add .
 	
-Coomit changes to local repository:
+Commit changes to local repository:
 
 	git commit -m "your message goes here. Tell them what changes you made... like Added a new Login Screen"
 	
