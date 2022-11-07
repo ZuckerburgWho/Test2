@@ -18,13 +18,10 @@ To create a new branch:
 To save the changes so everybody has these changes in the remote repo:
 
 	git add .
-	
-	
+
 	git commit -m "your message goes here. Tell them what changes you made... like Added a new Login Screen"
-	
-	
+
 	git push
-	
 	
 if you get an error here, you might need to set your upstream
 
