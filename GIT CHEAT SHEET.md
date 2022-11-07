@@ -15,12 +15,12 @@ To create a new branch:
 	
 **Now you can safely make any and all changes that you wnt to make**
 
-To save the changes so everybody has these changes in the remote repo:
-
+To save the changes so everybody has these changes in the remote repo
+Add files to be committed:
 	git add .
-
+Coomit changes to local repository:
 	git commit -m "your message goes here. Tell them what changes you made... like Added a new Login Screen"
-
+Push changes to remote repository
 	git push
 	
 if you get an error here, you might need to set your upstream
