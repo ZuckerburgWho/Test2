@@ -54,7 +54,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 B --> C
-B --> A
 B --> E
-B --> B
 ```
