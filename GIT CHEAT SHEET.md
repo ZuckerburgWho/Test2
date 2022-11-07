@@ -20,3 +20,8 @@ To save the changes so everybody has these changes in the remote repo:
 	
 	if you get an error here, you might need to set your upstream
 	git push --set-upstream origin theNameOfYourBranch
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GhQdlIFylQ8
+" target="_blank"><img src="http://img.youtube.com/vi/GhQdlIFylQ8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
