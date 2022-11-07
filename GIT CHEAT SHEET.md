@@ -42,3 +42,17 @@ You can also run multiple lines of git commands at the same time:
 " target="_blank"><img src="http://img.youtube.com/vi/GhQdlIFylQ8/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+B --> C
+B --> A
+B --> B
+B --> C
+B --> D
+B --> E
+B --> B
+```
